@@ -46,14 +46,6 @@ img{
   .attribution { font-size: 11px; text-align: center; }
   .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (max-width:1440px) {
-  main{
-    width: auto;
-    margin-left: 20%;
-  }
-}
-
-
 @media (max-width:768px) {
   main{
     width: auto;
