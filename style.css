@@ -69,3 +69,8 @@ img{
     margin-bottom: 20%;
     }
 }
+
+@font-face {
+  font-family: Outfit;
+  src: url(fonts/Outfit-VariableFont_wght.ttf);
+}
